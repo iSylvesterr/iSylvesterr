@@ -82,12 +82,12 @@ return Developer
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iSylvesterr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=9CA3AF&icon_color=00FFA3" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSylvesterr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3" width="48%" alt="Streak Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iSylvesterr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=9CA3AF&icon_color=00FFA3" width="48%" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=iSylvesterr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3" width="48%" alt="Streak Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSylvesterr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=9CA3AF" width="55%" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iSylvesterr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=9CA3AF" width="55%" alt="Top Languages" />
   </p>
 </div>
 
@@ -96,7 +96,11 @@ return Developer
 ## 🐍 Activity Streak & Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.style.display='none'" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'">
+  </picture>
 </div>
 
 ---
