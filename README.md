@@ -10,9 +10,10 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Active%20Building-00FFA3?style=for-the-badge&logo=codeforces&logoColor=black" />
-    <img src="https://img.shields.io/badge/Focus-Luau%20%7C%20C%2B%2B%20%7C%20Internal%20Tooling-0D1117?style=for-the-badge&logo=roblox&logoColor=white" />
-    <img src="https://img.shields.io/badge/Target-iSylvesterr-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00FFA3?style=for-the-badge&logo=codewars&logoColor=00FFA3&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/LUAU-INTERNALS%20%26%20RE-00A2FF?style=for-the-badge&logo=lua&logoColor=00A2FF&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/C%2B%2B-LOW%20LEVEL%20HOOKS-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=659AD2&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/ROBLOX-EXPLOIT%20ARCHITECT-E02424?style=for-the-badge&logo=roblox&logoColor=E02424&labelColor=0D1117" />
   </p>
 
   ---
@@ -42,27 +43,27 @@ return Developer
 <div align="center">
 
 ### 🎯 Primary Core (Game Internals & Exploitation)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua_5.1%2B-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly / Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-Hooking%20%26%20Memory-black?style=for-the-badge&logo=hack-the-box&logoColor=00FFA3)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)
+![Lua](https://img.shields.io/badge/Lua_5.1%2B-000080?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-Metatables%20%26%20Memory-00FFA3?style=for-the-badge&logo=hack-the-box&logoColor=00FFA3&labelColor=0D1117)
 
 ### ⚙️ Systems, Backend & Automation
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI / Express](https://img.shields.io/badge/APIs-REST%20%26%20WebSockets-009688?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python_3.x-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![APIs](https://img.shields.io/badge/APIs-REST%20%26%20WebSockets-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117)
 
 ### 🌐 Frontend & Modern Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React / Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 
 ### 🧰 Tools & Security Suites
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![x64dbg / IDA / Ghidra](https://img.shields.io/badge/Disassembly-IDA%20%2F%20Ghidra-FF6B6B?style=for-the-badge)
-![Wireshark / Fiddler](https://img.shields.io/badge/Network-Protocol%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![IDA / Ghidra](https://img.shields.io/badge/Disassembly-IDA%20%2F%20Ghidra-E91E63?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117)
+![Wireshark](https://img.shields.io/badge/Network-Wireshark%20%26%20Fiddler-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117)
 
 </div>
 
