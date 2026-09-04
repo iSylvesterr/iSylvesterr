@@ -1,110 +1,105 @@
-<div align="center">
+<h1> Damyan@workspace:~$ ./init_profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> </h1>
 
-  # ⚡ Damyan (`@iSylvesterr`)
-  ### 🎮 Luau / Reverse Engineering • Exploits & Script Architect • Full-Stack Systems
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FFA3&center=true&vCenter=true&width=760&lines=Roblox+Script+Architect+%26+Reverse+Engineer;Low-Level+Internals%2C+Hooks+%26+C%2B%2B+Tooling;Custom+Luau+Environments+%26+Metatable+Control;Building+Private+Systems+%26+Automation+Pipelines" alt="Typing SVG" /></a>
+</p>
 
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=580&lines=Roblox+Script+Architect+%26+Reverse+Engineer;Low-Level+Internals+%26+C%2B%2B+Hacker;Specialized+in+Luau+Optimization;Full-Stack+Web+%26+Automation+Tooling" alt="Typing SVG" />
-    </a>
-  </p>
+<p align="center">
+<a href="https://github.com/iSylvesterr" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<img alt="Focus" src="https://img.shields.io/badge/Focus-Roblox%20Internals%20%26%20RE-0F172A?style=for-the-badge&logo=roblox&logoColor=00FFA3">
+<img alt="Status" src="https://img.shields.io/badge/Status-Active%20Developing-111827?style=for-the-badge&logo=codeforces&logoColor=00FFA3">
+<img alt="Target" src="https://img.shields.io/badge/Stack-Lua%20%7C%20C%2B%2B%20%7C%20Node%20%7C%20Py-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white">
+</p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00FFA3?style=for-the-badge&logo=codewars&logoColor=00FFA3&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/LUAU-INTERNALS%20%26%20RE-00A2FF?style=for-the-badge&logo=lua&logoColor=00A2FF&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/C%2B%2B-LOW%20LEVEL%20HOOKS-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=659AD2&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/ROBLOX-EXPLOIT%20ARCHITECT-E02424?style=for-the-badge&logo=roblox&logoColor=E02424&labelColor=0D1117" />
-  </p>
+<br>
 
-  ---
-</div>
+- **Yo, I'm Damyan (`@iSylvesterr`)**
+- Reverse engineer & exploit script architect specializing in the **Roblox Luau runtime**
+- Deep focus on **metamethod hooks** (`__namecall`, `__index`, `__newindex`), VM constants, and client replication analysis
+- Engineering low-level systems & native memory helpers with **C++**
+- Crafting scalable backend infrastructure, auth pipelines & licensing systems with **Node.js**, **Python**, and modern **Web technologies**
+- Shipping high-performance tools built for **stability, speed, and real-world execution**
 
-## 📌 Executive Summary
+<h2> Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 
-Experienced developer with a primary obsession with **Luau runtime architecture**, **client-side internals**, and **reverse engineering**. Highly specialized in developing cutting-edge script suites, hooks, custom metatable environments, and exploit automation in the Roblox ecosystem. 
+<a href="https://luau.org/" target="_blank">
+  <img alt="Luau" src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white">
+</a>
+<a href="https://www.lua.org/" target="_blank">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://nodejs.org" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+<a href="https://www.javascript.com" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://expressjs.com" target="_blank">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+</a>
 
-Beyond game internals, I engineer high-performance systems with **C++**, scalable backends & API hubs with **Node.js** and **Python**, and modern interactive interfaces on the **Web**.
+<h2> Architecture & Core Focus <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54M3I4aHk3dDVqeGxyZWdrZjR4cGk0NHM4dXB1a2w5dW14MHN1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="28px"> </h2>
 
-```lua
-local Developer = {
-    handle    = "iSylvesterr",
-    alias     = "Damyan",
-    core      = { "Luau", "C++", "Node.js", "Python" },
-    domains   = { "Game Security & Internals", "Bypass Research", "System Automation", "Full-Stack Web" },
-    status    = "Compiling bytecode & analyzing hooks..."
-}
-return Developer
+- **Game Security & Luau Internals** — metatable manipulation, closure spoofing, environment sandboxing, and dynamic call interception
+- **Low-Level Native Extension** — memory scanning utilities, native hook payloads, and C++ performance bridges
+- **License & Key Distribution** — tokenized access control, hardware-bound authentication, and anti-tamper distribution backends
+- **Automation & Protocol Analysis** — custom WebSocket/REST dispatchers, network packet decoding, and automation bot infrastructures
+
+<h2> Internal Pipelines </h2>
+
+```text
+Luau_Metatables  -> custom hook abstractions & closure virtualization
+NativeCore_CPP   -> runtime memory scanners and low-level helpers
+KeySys_Gateway   -> secure hardware-bound license validation flow
+Web_Dashboard    -> administrative interfaces & automated script delivery
 ```
 
----
+<h2> Current Build </h2>
 
-## 🛠️ Tech Arsenal
+```text
+status      -> compiling bytecode & refining hook layers
+focus       -> low-level luau internals & memory stability
+stack       -> Luau -> C++ -> Node.js -> Python -> Web
+goal        -> bulletproof execution, zero-overhead scripts
+```
 
-<div align="center">
-
-### 🎯 Primary Core (Game Internals & Exploitation)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)
-![Lua](https://img.shields.io/badge/Lua_5.1%2B-000080?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-Metatables%20%26%20Memory-00FFA3?style=for-the-badge&logo=hack-the-box&logoColor=00FFA3&labelColor=0D1117)
-
-### ⚙️ Systems, Backend & Automation
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python_3.x-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-![APIs](https://img.shields.io/badge/APIs-REST%20%26%20WebSockets-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117)
-
-### 🌐 Frontend & Modern Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
-
-### 🧰 Tools & Security Suites
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![IDA / Ghidra](https://img.shields.io/badge/Disassembly-IDA%20%2F%20Ghidra-E91E63?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Network-Wireshark%20%26%20Fiddler-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117)
-
-</div>
-
----
-
-## ⚡ Specialized Capabilities
-
-- 🧬 **Roblox Lua / Luau Environment Mastery**: Hook metamethods (`__namecall`, `__index`, `__newindex`), VM constant manipulation, garbage collector analysis, and spoofing detections.
-- ⚡ **C++ Native Extensions & Memory**: Writing clean memory scanners, DLL payloads, and runtime hook abstractions.
-- 📡 **Web Automation & Key Systems**: Designing license managers, script loader distribution backends, Discord bot integrations, and web dashboards with Node.js & Python.
-- 🛡️ **Defensive & Offensive Mindset**: Understanding client replication pitfalls, network vulnerabilities, and creating airtight Luau code or audit reports.
-
----
-
-## 📊 GitHub Analytics
+<h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32px"> </h2>
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iSylvesterr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=9CA3AF&icon_color=00FFA3" width="48%" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=iSylvesterr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3" width="48%" alt="Streak Stats" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iSylvesterr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=9CA3AF" width="55%" alt="Top Languages" />
-  </p>
+  <img src="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
-
----
-
-## 🐍 Activity Streak & Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iSylvesterr/iSylvesterr/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'">
-  </picture>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iSylvesterr&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=iSylvesterr&theme=tokyonight&hide_border=true" height="180px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<h2> Current Direction </h2>
 
-<div align="center">
-  <sub>Engineered by <b>Damyan (iSylvesterr)</b> • Powered by coffee, bytecode & curiosity.</sub>
-</div>
+- pushing Roblox Luau internals and bypass research even deeper
+- perfecting C++ native runtime hooks & memory utilities
+- hardening private license platforms and backend telemetry
+- writing cleaner, faster, and uncrackable script suites
+- ALWAYS COOKING SOMETHING CRAZY 🔥
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2&section=footer" width="100%" />
